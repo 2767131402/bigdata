@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+	<property>
+		<name>sql0</name>
+		<value>
+			INSERT INTO user(
+			u_ud,
+			u_mid,
+			u_time,
+			u_newadd,
+			u_newvip,
+			u_country,
+			u_province,
+			u_city,
+			b_iev,
+			u_ip)
+			VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+		</value>
+	</property>
+	<property>
+		<name>sql1</name>
+		<value>
+			INSERT INTO session(
+			u_sd,
+			u_time,
+			u_year,
+			u_month,
+			u_day,
+			u_length,
+			b_iev)
+			VALUES(?, ?, ?, ?, ?, ?, ?)
+		</value>
+	</property>
+	<property>
+		<name>sql2</name>
+		<value>
+			INSERT INTO usersession(
+			u_time,
+			u_year,
+			u_month,
+			u_day,
+			u_hour,
+			u_session_size,
+			u_user_size,
+			u_max_session,
+			u_min_session,
+			u_sum,
+			u_avg)
+			VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+		</value>
+	</property>
+	<property>
+		<name>sql3</name>
+		<value>
+			INSERT INTO browser_pv(
+			u_time,
+			b_iev,
+			pv_num,
+			u_ud)
+			VALUES(?, ?, ?, ?)
+		</value>
+	</property>
+	<property>
+		<name>sql4</name>
+		<value>
+			INSERT INTO area(
+			u_time,
+			u_tiao_num,
+			u_sd_num,
+			u_pv_num,
+			u_area)
+			VALUES(?, ?, ?, ?, ?)
+		</value>
+	</property>
+	<property>
+		<name>sql5</name>
+		<value>
+			INSERT INTO user_depth(
+			u_time,
+			u_ud,
+			u_num)
+			VALUES(?, ?, ?)
+		</value>
+	</property>
+</configuration>

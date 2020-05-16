@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zookeeper/Zookeeper.iml" filepath="$PROJECT_DIR$/Zookeeper/Zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bigdata.iml" filepath="$PROJECT_DIR$/.idea/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-fs/hadoop-fs.iml" filepath="$PROJECT_DIR$/hadoop-fs/hadoop-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-hbase/hadoop-hbase.iml" filepath="$PROJECT_DIR$/hadoop-hbase/hadoop-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-log/hadoop-log.iml" filepath="$PROJECT_DIR$/hadoop-log/hadoop-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce/hadoop-mapreduce.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce/hadoop-mapreduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-test/hadoop-test.iml" filepath="$PROJECT_DIR$/hadoop-test/hadoop-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop_phone/hadoop_phone.iml" filepath="$PROJECT_DIR$/hadoop_phone/hadoop_phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase/hbase.iml" filepath="$PROJECT_DIR$/hbase/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive/hive.iml" filepath="$PROJECT_DIR$/hive/hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-mysql/kafka-mysql.iml" filepath="$PROJECT_DIR$/kafka-mysql/kafka-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm/storm.iml" filepath="$PROJECT_DIR$/storm/storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-kafka/storm-kafka.iml" filepath="$PROJECT_DIR$/storm-kafka/storm-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-trident/storm-trident.iml" filepath="$PROJECT_DIR$/storm-trident/storm-trident.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm_demo/storm_demo.iml" filepath="$PROJECT_DIR$/storm_demo/storm_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm_transation/storm_transation.iml" filepath="$PROJECT_DIR$/storm_transation/storm_transation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strom-project/strom-project.iml" filepath="$PROJECT_DIR$/strom-project/strom-project.iml" />
+    </modules>
+  </component>
+</project>

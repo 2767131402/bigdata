@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+	<property>
+		<name>sql0</name>
+		<value>
+			INSERT INTO flow(
+			date,
+			phone,
+			up,
+			down)
+			VALUES(?, ?, ?, ?) ON DUPLICATE KEY UPDATE up = ?,down=?
+		</value>
+	</property>
+</configuration>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/jedis-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/junit-4.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/jline-0.9.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/zookeeper-3.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/commons-pool2-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/netty-3.7.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/slf4j-log4j12-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Zookeeper/lib/log4j-1.2.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
