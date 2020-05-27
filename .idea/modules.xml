@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Zookeeper/Zookeeper.iml" filepath="$PROJECT_DIR$/Zookeeper/Zookeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bigdata.iml" filepath="$PROJECT_DIR$/.idea/bigdata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hadoop-fs/hadoop-fs.iml" filepath="$PROJECT_DIR$/hadoop-fs/hadoop-fs.iml" />
       <module fileurl="file://$PROJECT_DIR$/hadoop-hbase/hadoop-hbase.iml" filepath="$PROJECT_DIR$/hadoop-hbase/hadoop-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-hdfs/hadoop-hdfs.iml" filepath="$PROJECT_DIR$/hadoop-hdfs/hadoop-hdfs.iml" />
       <module fileurl="file://$PROJECT_DIR$/hadoop-log/hadoop-log.iml" filepath="$PROJECT_DIR$/hadoop-log/hadoop-log.iml" />
       <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce/hadoop-mapreduce.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce/hadoop-mapreduce.iml" />
       <module fileurl="file://$PROJECT_DIR$/hadoop-test/hadoop-test.iml" filepath="$PROJECT_DIR$/hadoop-test/hadoop-test.iml" />
